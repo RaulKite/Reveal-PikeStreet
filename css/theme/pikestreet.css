@@ -101,8 +101,8 @@ body > div > div.backgrounds > div.slide-background.present > video {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #5c2d91;
-  background-color: #5c2d91; }
+  background: #a71930;
+  background-color: #a71930; }
 
 .reveal {
   font-family: 'Segoe UI', 'Open Sans', sans-serif;
@@ -340,3 +340,4 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #fff; }
+

@@ -1,5 +1,6 @@
+
 # "Pike Street Theme"
-This is an example presentation
+This is an example presentation in MARKDOWN
 
 ----
 
@@ -76,3 +77,5 @@ from the left side). Here's a code sample:
 
 # Links
 ### Here's a link to [a website](http://foo.bar).
+
+FIN MARKDOWN

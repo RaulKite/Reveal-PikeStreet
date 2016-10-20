@@ -1,3 +1,12 @@
+# 'Pike Street' Theme for Reveal.js modified for using at University of Murcia
+
+To run the webserver with the slides, execute:
+
+```
+docker run -p 80:80 -v $PWD:/usr/share/nginx/html:ro -d nginx
+```
+
+
 # 'Pike Street' Theme for Reveal.js
 This is a fancy Microsoft theme for Reveal.js. It's mostly used by Microsoft DX's Open Source Engineers, but we wouldn't exactly be great open source engineers if we didn't let you use our theme. We think it looks pretty good. Especially cool: Video backgrounds! Live Code Editors! This repo already contains reveal.js, mostly because we're lazy. **You can see an example presentation [here](http://felixrieseberg.github.io/Reveal-PikeStreet/#/).**
 
